@@ -1,8 +1,8 @@
 # biological-blockchain
 Neurospace: The Biological Blockchain 
 
-🔑Leveraging data driven research with AI to foster secure, decentralized research innovations by streamlining advances towards potential treatments for progressive neural degenerative diseases like ALS. Neurospace offers enhanced data security & distribution by modeling underground mycelium fungal networks because of their advanced, peer to peer nutrient management systems closely aligning with blockchain decentralization modality. This cutting edge hub of passionate cure seekers and our growing knowlege of silarities between human neural networks and the "wood wide web" (underground root systems) both reacting to firing electric and chemical symapses and impulses alike.
-on chemical and electric synapaes)
+🔑Leveraging data driven research with AI to foster secure, decentralized research innovations by streamlining advances towards potential treatments for progressive neural degenerative diseases like ALS. Neurospace offers enhanced data security & distribution by modeling underground mycelium fungal networks because of their advanced, peer to peer nutrient management systems closely aligning with blockchain decentralization modality. This cutting edge hub of passionate cure seekers and our growing knowlege of similarities between human neural networks and the "wood wide web" (underground root systems) both reacting to firing electric and chemical synapses and impulses alike.
+
 
    Imagine a world where blockchain, AI, and neuroscience work together to unlock new treatments for ALS, Parkinson’s, and other neurological diseases. Neurospace is more than an idea—it’s a movement. Here’s how we’re using decentralized AI and blockchain to build a future where innovation knows no limits.
 
